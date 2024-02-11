@@ -1,7 +1,16 @@
 ## Awesome JSGame Detona Ralph
 
+```
+  #game-development
+  #javascript-game 
+  #html-css-javascript 
+  #html-css-javascript-games 
+  #ifood 
+  #dio-bootcamp 
+```
 
-Bem-vindo ao **JSGame Detona Ralph**!
+
+# Bem-vindo ao **JSGame Detona Ralph**!
 
 Um projeto que, além do entretenimento, demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript.
 
